@@ -1,6 +1,8 @@
 # 💫 Hi 👋, I'm Ahmed Tarek
 **A passionate Frontend Developer**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karimchehab2003&label=Profile%20views&color=0e75b6&style=flat" alt="karimchehab2003" /> </p>
+
 Email Me 👉 ✉️ **ahmedtarek123475@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** React projects 
