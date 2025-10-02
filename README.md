@@ -1,3 +1,13 @@
+# 💫 Hi 👋, I'm Ahmed Tarek
+**A passionate Frontend Developer**
+
+Email Me 👉 ✉️ **ahmedtarek123475@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** React projects 
+- 🌱 **I’m currently learning:** new frameworks [Tanstack start,Next js]
+- 👯 **I’m looking to collaborate on:** any project
+- ⚡ **Fun fact:** I Love to code and teach
+
 # 💫 About Me:
 🔭 I’m currently working on React Projects (frontend + fullstack apps)<br>🌱 I’m currently learning more about react frameworks (tanstack start, nextjs)<br>💬 Ask me about any layout advices :p<br>⚡ Fun fact I like to code
 
