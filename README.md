@@ -10,9 +10,6 @@ Email Me 👉 ✉️ **ahmedtarek123475@gmail.com** For Collaboration/Project or
 - 👯 **I’m looking to collaborate on:** any project
 - ⚡ **Fun fact:** I Love to code and teach
 
-# 💫 About Me:
-🔭 I’m currently working on React Projects (frontend + fullstack apps)<br>🌱 I’m currently learning more about react frameworks (tanstack start, nextjs)<br>💬 Ask me about any layout advices :p<br>⚡ Fun fact I like to code
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmed.tarek.231157) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-tarek-a54b68286) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedtarek123475@gmail.com) 
