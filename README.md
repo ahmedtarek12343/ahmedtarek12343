@@ -15,7 +15,7 @@ Email Me 👉 ✉️ **ahmedtarek123475@gmail.com** For Collaboration/Project or
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmed.tarek.231157) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-tarek-a54b68286) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedtarek123475@gmail.com) 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedtarek12343&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedtarek12343&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
